@@ -3,14 +3,17 @@ Programming and Algorithm Analysis Course MSc Statistical Computing CIMAT Monter
 
 ***
 
-This course is designed to promote the development of **computational thinking** and how it can be applied as a critical thinking and problem solving skill in order to solve real life problems.
+This course is designed to promote the development of **computational thinking** and how it can be applied as a critical thinking and problem solving skill. Also introduce learners fundamental concepts of **parallel programming**, covering both traditional approaches and new advancements in the area.
 
 **Course**\
 Programming and Algorithm Analysis
 
-**Instructor**\
+**Instructors**\
 Dr. Miguel Ángel Álvarez-Carmona\
-_Research Professor SNI I at Mathematics Research Center (CIMAT)_
+_Research Professor SNI Level I at Mathematics Research Center (CIMAT)_
+
+ Dr. Francisco Javier Hernández López\
+ _Research Professor ICC1 Cátedras CONAHCYT at Mathematics Research Center (CIMAT)_
 
 _August 2023_
 
